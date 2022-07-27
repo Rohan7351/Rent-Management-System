@@ -1,0 +1,52 @@
+
+        body {
+            background-image:url(https://images.unsplash.com/photo-1626178793926-22b28830aa30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+        }
+
+        h1 {
+            color: rgb(202, 235, 236);
+            text-align: center;
+            text-decoration: underline;
+            font-style: italic;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        p,div {
+            color: rgb(252, 252, 252);
+        }
+
+        a.button {
+            -webkit-appearance: button;
+            -moz-appearance: button;
+            appearance: button;
+            color: initial;
+
+        }
+
+        .download {
+            margin: 15px 0px;
+        }
+
+        .container {
+            margin-left: 50px 50px;
+            box-sizing: border-box;
+            border: rgb(0, 0, 0);
+            border-width: 3px;
+            border-style: solid;
+            border-radius: 25px;
+            background-color: rgba(0,0,0,0.5);
+            
+
+
+        }
+
+        form {
+            font-size: 20px;
+            position: relative;
+            left: 50%;
+        }
+
+        .buttons {
+            text-align: center;
+        }
+    
